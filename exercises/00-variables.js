@@ -1,8 +1,10 @@
-// TODO: 1. Declare a const for your name (string)
-// TODO: 2. Declare a const for your age (number)
-// TODO: 3. Declare a let for whether you're currently coding right now (boolean)
-// TODO: 4. console.log each variable on its own line
-// TODO: 5. console.log one sentence using a template literal that uses all three variables
+// TODO: 
+
+//  1. Declare a const for your name (string)
+//  2. Declare a const for your age (number)
+//  3. Declare a let for whether you're currently coding right now (boolean)
+//  4. console.log each variable on its own line
+//  5. console.log one sentence using a template literal that uses all three variables
 
 const name = "Adrian";
 const age = 38;
